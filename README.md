@@ -30,15 +30,15 @@ Students will receive a printed cheatsheet (cheatsheets/beginners-class1.html) a
 ### Class 2
 Introduction to CSS. Colors? Backgrounds? Fonts? What? It's all true. And you thought we were going to make you live your life in black and white.
 
-You will go through most of the CSS styles, including font changes, layout, size, and color. You will learn how to connect them to HTML selectors. The CSS file will be an external file.
+You will go through most of the CSS styles, including font changes, layout, size, and color. You will learn how to connect them to HTML selectors. The CSS file will be an external file. Then learn how to have ID and class selectors in our CSS. After all, who wants every paragraph to look the same?
 
-Students will add CSS styling to their page from class 1.
+Students will style their HTML page from class 1 using an external CSS file.
 
 Students will receive a printed cheatsheet (cheatsheets/beginners-class2.html) at the start of class.
 
 ### Class 3
 
-Introduction to display properties, the CSS box model, and snazzy new HTML5 elements. You didn't think we would just leave you with paragraphs and lists, did you? No, my friends. We are going to dive into these super valuable container elements. Then learn how to have ID and class selectors in our CSS. After all, who wants every paragraph to look the same?
+Introduction to display properties, the CSS box model, and snazzy new HTML5 elements. You didn't think we would just leave you with paragraphs and lists, did you? No, my friends. We are going to dive into these super valuable container elements. 
 
 Students will begin to make a personal portfolio page with HTML and CSS.
 
