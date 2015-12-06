@@ -8,11 +8,16 @@ This curriculum is based on the official Girl Develop It Core HTML/CSS. It was c
 
 The course is meant to be taught in 4 two-hour sections. Each of the slides and practice files are customizable according to the needs of a given class or audience.
 
-### Tech requirements:
 
- - Your laptop (Mac, PC, or Linux are all okay).
- - A modern web browser - Google Chrome recommended.
- - A text editor. We recommend Atom or Sublime Text (both free; available for Mac, PC, and Linux).
+### Tech Requirements for Students:
+
+ - Your laptop (Mac, PC, or Linux are all okay) and a charger
+ - Google Chrome
+ - A text editor. We recommend Atom or Sublime Text (both free; available for Mac, PC, and Linux)
+ 
+### Notes for Instructors and/or Course Organizers:
+ - Before each class, print out a cheatsheet for each student (found in the cheatsheets directory)
+ - Try to code in front of students, so students can see the 'before' and 'after' versions of each exercise
 
 ## Classes
 
