@@ -15,6 +15,10 @@
 	-webkit-print-color-adjust: exact;
 }
 
+#important {
+	font-size: 30px;
+}
+
 body {
 	font-size: 18pt;
 	width: 297mm;
@@ -24,6 +28,11 @@ body {
 	padding: 0;
 	float: none !important;
 	overflow: visible;
+}
+
+#important {
+	font-size: 28pt;
+
 }
 
 html {
@@ -76,6 +85,9 @@ a:visited {
 	font-family: monospace !important;
 }
 
+div p {
+
+}
 
 /* SECTION 6: more reveal.js specific additions by @skypanther */
 ul, ol, div, p {
